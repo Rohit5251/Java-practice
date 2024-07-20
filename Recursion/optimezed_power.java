@@ -17,6 +17,6 @@ public class optimezed_power {
     }
 
     public static void main(String args[]){
-        System.out.println(OP(2, 5));
+        System.out.println(OP(2, -2));
     }
 }
