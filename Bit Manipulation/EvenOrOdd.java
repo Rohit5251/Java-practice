@@ -9,7 +9,7 @@ public class EvenOrOdd {
         }
     }
     public static void main(String args[]){
-        isOddOrEven(3);
         isOddOrEven(4);
+        //isOddOrEven(4);
     }
 }

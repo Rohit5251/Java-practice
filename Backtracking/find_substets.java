@@ -19,7 +19,7 @@ public class find_substets {
     }
 
     public static void main(String[] args) {
-        String str="ab";
+        String str="abc";
         String ans="";
         findSubset(str, 0, ans);
 
